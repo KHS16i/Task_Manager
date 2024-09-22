@@ -1,4 +1,4 @@
-***Instrucciones para ejecutar el código fuente***
+***Instrucciones para ejecutar el código fuente***  en caso de que no compile
 
 **Instalar DevExpress Components**
 Asegúrate de tener instalada la versión 24.1.5 de DevExpress Components en la computadora.
